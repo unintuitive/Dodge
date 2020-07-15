@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pj6pzpqjNXCAnCRjcO4giQZy06ML67+v0aXtVUODHAWh/4P4SSJ3JsiNze8/p70KDrQeSvNAEeaf2YsYz349Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eric\\Projects\\Godot\\Dodge\\Dodge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.0\\microsoft.netframework.referenceassemblies.net47.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

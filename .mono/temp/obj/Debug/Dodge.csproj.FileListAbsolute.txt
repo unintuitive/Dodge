@@ -1,0 +1,6 @@
+C:\Users\eric\Projects\Godot\Dodge\.mono\temp\bin\Debug\Dodge.dll
+C:\Users\eric\Projects\Godot\Dodge\.mono\temp\bin\Debug\Dodge.pdb
+C:\Users\eric\Projects\Godot\Dodge\.mono\temp\obj\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\eric\Projects\Godot\Dodge\.mono\temp\obj\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\eric\Projects\Godot\Dodge\.mono\temp\obj\Debug\Dodge.dll
+C:\Users\eric\Projects\Godot\Dodge\.mono\temp\obj\Debug\Dodge.pdb

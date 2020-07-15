@@ -1,0 +1,6 @@
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\Dodge\.mono\temp\bin\Tools\Dodge.dll
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\Dodge\.mono\temp\bin\Tools\Dodge.pdb
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\Dodge\.mono\temp\obj\Tools\Dodge.csprojAssemblyReference.cache
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\Dodge\.mono\temp\obj\Tools\Dodge.dll
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\Dodge\.mono\temp\obj\Tools\Dodge.pdb
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\Dodge\.mono\temp\obj\Tools\Dodge.csproj.CoreCompileInputs.cache
